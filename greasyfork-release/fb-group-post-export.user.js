@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         FB - Group Post Data Collector
 // @description  Collect Facebook group posts data with selection interface and export to localhost API
-// @namespace    https://github.com/zbluebugz/fb-group-post-export
-// @supportURL   https://github.com/zbluebugz/fb-group-post-export/issues
+// @namespace    https://github.com/alx/fb-group-post-export
+// @supportURL   https://github.com/alx/fb-group-post-export/issues
 // @version      1.1
-// @author       zbluebugz (https://github.com/zbluebugz/)
+// @author       alx (https://github.com/alx/)
 // @match        https://www.facebook.com/groups/*
 // @match        https://web.facebook.com/groups/*
 // @noframes
